@@ -20,7 +20,7 @@ This project aims to classify brain tumor MRI images into different categories (
 
 The project achieved an accuracy of 98% on the test set. The classification report and confusion matrix provide detailed insights into the model's performance for each tumor category.
 
-![images](download.png)  
+![Brain-Tumor-Recognition-](images/download.png)  
 ## Future Work
 
 * Explore other deep learning architectures, such as VGG16 or InceptionV3.
